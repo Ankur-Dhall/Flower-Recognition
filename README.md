@@ -12,3 +12,9 @@ Then, after preprocessing of images ,they are labelled to be classified as follo
 Then,dataset is fitted in the neural network model created.
 The accuracy of classification by CNN model used is more than 70% on test set.
 Then the model is tested on some random images from the internet giving 4 out of 5 predictions correct.
+
+
+
+
+The Dataset used can be downloaded from the following link:
+https://www.kaggle.com/alxmamaev/flowers-recognition#flowers.zip
